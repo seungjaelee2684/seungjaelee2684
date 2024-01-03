@@ -40,16 +40,22 @@
 
 ## 📞 Contact 📞
 
-<div>
-  <a href="Mailtosean2684@naver.com">
-    <img src="https://img.shields.io/badge/Email-22D172?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sean2684.tistory.com/">
-    <img src="https://img.shields.io/badge/blog-FF3633?style=flat&logo=blogger&logoColor=white" />
-  </a>
-  <a href="01065325635">
-    <img src="https://img.shields.io/badge/phone-FECC00?style=flat&logo=allocine&logoColor=white" />
-  </a>
+<div style="display: flex; flex-direction: row;">
+	<div>
+	  <a href="mailto:sean2684@naver.com">
+	    <img src="https://img.shields.io/badge/Email-22D172?style=for-the-badge&logo=gmail&logoColor=white" />
+	  </a>
+	</div>
+	<div>
+	  <a href="https://sean2684.tistory.com/">
+	    <img src="https://img.shields.io/badge/blog-FF3633?style=for-the-badge&logo=blogger&logoColor=white" />
+	  </a>
+	</div>
+	<div>
+	  <a href="01065325635">
+	    <img src="https://img.shields.io/badge/phone-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
+	  </a>
+	</div>
 </div>
 
 <br />
