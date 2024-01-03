@@ -1,8 +1,8 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20SeungJae&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20SeungJae`s%20Github👋&animation=twinkling&fontSize=50" />
 </p>
 
-## Introduce
+## 📽️ Introduce 📽️
 
 <h3>
   안녕하세요 프론트엔드 개발자 이승재입니다. 저는 자신의 프로젝트에 활력을 불어넣을 줄 알
@@ -15,7 +15,9 @@
   하며 개발을 이어나갔습니다.
 </p>
 
-## 📚 Tech Stack
+<br />
+
+## 📚 Tech Stack 📚
 
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -25,7 +27,9 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 </div>
 
-## 🛠️ Tools
+<br />
+
+## 🛠️ Tools 🛠️
 
 <div>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
@@ -33,10 +37,12 @@
 	<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
 </div>
 
-## 📞 Contact
+<br />
+
+## 📞 Contact 📞
 
 <div>
-  <a href="sean2684@naver.com">
+  <a href="Mailtosean2684@naver.com">
     <img src="https://img.shields.io/badge/Email-22D172?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sean2684.tistory.com/">
