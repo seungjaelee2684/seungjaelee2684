@@ -47,7 +47,7 @@
 	<a href="https://sean2684.tistory.com/">
 	    	<img src="https://img.shields.io/badge/blog-FF3633?style=for-the-badge&logo=blogger&logoColor=white" />
 	</a>
-	<a href="01065325635">
+	<a href="tel:010-6532-5635">
 	    	<img src="https://img.shields.io/badge/phone-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
 	</a>
 </div>
