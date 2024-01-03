@@ -1,6 +1,5 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20SeungJae`s%20Github👋&animation=twinkling&fontSize=50" />
-</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20my%20GitHub%20👋&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=50&height=250&desc=Lee%20seungjae&descAlignY=65&descAlign=55)
 
 ## 📽️ Introduce 📽️
 
