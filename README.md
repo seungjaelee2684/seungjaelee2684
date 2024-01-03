@@ -19,11 +19,11 @@
 ## 📚 Tech Stack 📚
 
 <div>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 <br />
@@ -31,31 +31,25 @@
 ## 🛠️ Tools 🛠️
 
 <div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 <br />
 
 ## 📞 Contact 📞
 
-<div style="display: flex; flex-direction: row;">
-	<div>
-	  <a href="mailto:sean2684@naver.com">
-	    <img src="https://img.shields.io/badge/Email-22D172?style=for-the-badge&logo=gmail&logoColor=white" />
-	  </a>
-	</div>
-	<div>
-	  <a href="https://sean2684.tistory.com/">
-	    <img src="https://img.shields.io/badge/blog-FF3633?style=for-the-badge&logo=blogger&logoColor=white" />
-	  </a>
-	</div>
-	<div>
-	  <a href="01065325635">
-	    <img src="https://img.shields.io/badge/phone-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
-	  </a>
-	</div>
+<div>
+	<a href="mailto:sean2684@naver.com">
+		<img src="https://img.shields.io/badge/Email-22D172?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://sean2684.tistory.com/">
+	    	<img src="https://img.shields.io/badge/blog-FF3633?style=for-the-badge&logo=blogger&logoColor=white" />
+	</a>
+	<a href="01065325635">
+	    	<img src="https://img.shields.io/badge/phone-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
+	</a>
 </div>
 
 <br />
