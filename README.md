@@ -22,7 +22,7 @@
 <br />
 
 <h2 align=center>
-	📚 Tech Stack 📚
+	📚 Tech Stacks 📚
 </h2>
 
 <div align=center>
@@ -36,9 +36,16 @@
 	<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
 	<img src="https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+	<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 	<br />
+	<br />
+	<br />
+	<h3 align=center>
+		✨ Backend Stacks ✨
+	</h3>
 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   	
 </div>
 
@@ -59,7 +66,7 @@
 <br />
 
 <h2 align=center>
-	📞 Contact 📞
+	📞 Contacts 📞
 </h2>
 
 <div align=center>
@@ -73,6 +80,8 @@
 	<img src="https://img.shields.io/badge/010%206532%205635-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
 </div>
 
+<br />
+<br />
 <br />
 <br />
 <br />
