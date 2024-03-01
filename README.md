@@ -64,14 +64,13 @@
 
 <div align=center>
 	<a href="mailto:sean2684@naver.com">
-		<img src="https://img.shields.io/badge/Email-22D172?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/sean2684@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 	</a>
 	<a href="https://sean2684.tistory.com/">
-	    	<img src="https://img.shields.io/badge/blog-FF3633?style=for-the-badge&logo=blogger&logoColor=white" />
+	    	<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 	</a>
-	<a href="tel:010-6532-5635">
-	    	<img src="https://img.shields.io/badge/phone-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
-	</a>
+	<br />
+	<img src="https://img.shields.io/badge/010%206532%205635-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
 </div>
 
 <br />
