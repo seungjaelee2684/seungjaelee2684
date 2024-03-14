@@ -38,21 +38,7 @@
 	<br />
 	<img src="https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 	<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-	<br />
-	<br />
-	<br />
-	<h3 align=center>
-		✨ Backend Stacks ✨
-	</h3>
-	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
- 	<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  	<br />
-   	<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
- 	<img src="https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  	
 </div>
 
 <br />
@@ -78,9 +64,6 @@
 <div align=center>
 	<a href="mailto:sean2684@naver.com">
 		<img src="https://img.shields.io/badge/sean2684@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-	</a>
-	<a href="https://sean2684.tistory.com/">
-	    	<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 	</a>
 	<br />
 	<img src="https://img.shields.io/badge/010%206532%205635-FECC00?style=for-the-badge&logo=allocine&logoColor=white" />
