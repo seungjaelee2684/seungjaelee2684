@@ -60,9 +60,6 @@
 </h2>
 
 <div align=center>
-	<a href="https://sean2684.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
-	</a>
 	<a href="mailto:sean2684@naver.com">
 		<img src="https://img.shields.io/badge/sean2684@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 	</a>
